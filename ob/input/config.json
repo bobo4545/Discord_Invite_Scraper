@@ -1,0 +1,7 @@
+{
+  "Threads": 1,
+  "Proxyless": false,
+  "Debug": false,
+  "ServerDelayMin": 15,
+  "ServerDelayMax": 25
+}
